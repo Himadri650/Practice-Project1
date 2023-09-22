@@ -19,7 +19,7 @@ public class ArrayDemo {
 		int len = arr1.length;
 		
 		for(int i =0; i<5;i++)
-		{
+		{ 
 		System.out.println(arr1[2]);
 	}
 	}
