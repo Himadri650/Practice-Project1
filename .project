@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JDBC-Demo</name>
+=======
+	<name>java-programs-phase1</name>
+>>>>>>> f71d969d7a37ff28280bd70209f560c741016f19
 	<comment></comment>
 	<projects>
 	</projects>
